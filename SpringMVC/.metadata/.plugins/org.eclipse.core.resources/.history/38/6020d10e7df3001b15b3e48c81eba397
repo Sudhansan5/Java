@@ -1,0 +1,5 @@
+package com.sudhan.department.repository;
+
+public class DepartmentRepository {
+
+}

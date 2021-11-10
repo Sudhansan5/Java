@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\sudha\eclipse-workspace\SpringMVC"/>
+			<item value="C:\Users\sudha\eclipse-workspace\SpringInjectingObjects"/>
+			<item value="C:\Users\sudha\eclipse-workspace\Sorting\src\ComparableExample.java"/>
+			<item value="C:\Users\sudha\eclipse-workspace\SpringAutowiring\src\main\java\spring.xml"/>
+			<item value="C:\Users\sudha\eclipse-workspace\SpringConstructorInjection\src\main\java\com\spring\SpringConstructorInjection\App.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.springmvc.first"/>
+			<item value="com.spring.SpringJdbc"/>
+			<item value="com.spring"/>
+			<item value="com.spring.SpringAutowiring"/>
+			<item value="com.spring.SpringInitializingCollections"/>
+			<item value="com.spring.SpringInjectingObjects"/>
+			<item value="com.spring.InjectingObjects"/>
+			<item value="com.spring.SpringConstructorInjection"/>
+			<item value="com.spring.SpringApplicationContext"/>
+			<item value="com.spring.Example1"/>
+			<item value="com.spring.example1"/>
+		</list>
+		<list key="groupId">
+			<item value="com.springmvc"/>
+			<item value="com.spring"/>
+		</list>
+		<list key="artifactId">
+			<item value="first"/>
+			<item value="SpringJdbc"/>
+			<item value="SpringAutowiring"/>
+			<item value="SpringInitializingCollections"/>
+			<item value="SpringInjectingObjects"/>
+			<item value="InjectingObjects"/>
+			<item value="SpringConstructorInjection"/>
+			<item value="SpringApplicationContext"/>
+			<item value="Example1"/>
+			<item value="example1"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="com.jdbc"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="jdbc"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

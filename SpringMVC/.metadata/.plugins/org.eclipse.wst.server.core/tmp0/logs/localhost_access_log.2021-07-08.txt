@@ -1,0 +1,13 @@
+127.0.0.1 - - [08/Jul/2021:10:28:59 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [08/Jul/2021:10:29:04 +0530] "GET /firstproject/ HTTP/1.1" 200 157
+0:0:0:0:0:0:0:1 - - [08/Jul/2021:10:29:27 +0530] "GET /firstproject/home HTTP/1.1" 200 241
+0:0:0:0:0:0:0:1 - - [08/Jul/2021:10:29:37 +0530] "GET /firstproject/contact HTTP/1.1" 200 224
+0:0:0:0:0:0:0:1 - - [08/Jul/2021:10:55:23 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [08/Jul/2021:10:55:24 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [08/Jul/2021:10:55:30 +0530] "GET /firstproject/ HTTP/1.1" 200 157
+0:0:0:0:0:0:0:1 - - [08/Jul/2021:10:55:41 +0530] "GET /firstproject/register HTTP/1.1" 200 1356
+0:0:0:0:0:0:0:1 - - [08/Jul/2021:10:55:42 +0530] "GET /firstproject/resources/registerStyle.css HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [08/Jul/2021:10:55:55 +0530] "POST /firstproject/processform HTTP/1.1" 200 263
+0:0:0:0:0:0:0:1 - - [08/Jul/2021:11:00:17 +0530] "POST /firstproject/processform HTTP/1.1" 200 520
+0:0:0:0:0:0:0:1 - - [08/Jul/2021:11:00:33 +0530] "POST /firstproject/processform HTTP/1.1" 200 531
+0:0:0:0:0:0:0:1 - - [08/Jul/2021:11:00:51 +0530] "POST /firstproject/processform HTTP/1.1" 200 539

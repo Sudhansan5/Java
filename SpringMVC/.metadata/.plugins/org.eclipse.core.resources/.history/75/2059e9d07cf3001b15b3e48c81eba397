@@ -1,0 +1,5 @@
+package com.sudhan.department.entity;
+
+public class Department {
+
+}
