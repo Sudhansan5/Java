@@ -24,6 +24,7 @@ public class CourseServiceImpl implements CourseService {
     @Override
     public Course getCourse(long courseId) {
         Course c=null;
+        
         for(Course course:list){
             if(course.getId()==courseId){
                 c=course;
